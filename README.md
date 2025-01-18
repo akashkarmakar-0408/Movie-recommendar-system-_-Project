@@ -9,3 +9,7 @@ While Cinematch has been effective, there is always room for improvement. Numero
 1.2 Problem Statement:
 
 Netflix has supplied a large dataset of anonymous movie ratings along with a benchmark for prediction accuracy—set 10% higher than what Cinematch achieves on the same training dataset. (Accuracy measures how closely the predicted movie ratings align with the actual ratings provided later.)
+
+
+Dataset link:
+https://www.kaggle.com/datasets/mirajshah07/netflix-dataset
